@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Optional: Set default dark mode if desired */
+/* Remove the @apply dark line */
+html {
+  /* You can keep this empty or add any base styles */
+}
